@@ -26,3 +26,13 @@ To push the chnages:
     git push origin <sourceBranch>
     ex: class01 -> main
     git push origin class01
+
+### Daily
+To checkout to the main branch
+    git checkout main
+
+To get the latest changes
+   git pull origin main
+
+To create new branch
+   git checkout -b <NEW BRANCH NAME>
